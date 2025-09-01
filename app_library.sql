@@ -86,9 +86,6 @@ CREATE TABLE return_status
 -- Project TASK
 
 
--- ### 2. CRUD Operations
-
-
 -- Task 1. Create a New Book Record
 -- "978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.')"
 
@@ -106,12 +103,8 @@ CREATE TABLE return_status
 -- Objective: Use GROUP BY to find members who have issued more than one book.
 
 
--- ### 3. CTAS (Create Table As Select)
-
 -- Task 6: Create Summary Tables**: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt
 
-
--- ### 4. Data Analysis & Findings
 
 -- Task 7. **Retrieve All Books in a Specific Category:
 
